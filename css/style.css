@@ -403,11 +403,13 @@ input {
 	color: #837960;
 	border-bottom: 1px solid #837960;
 	margin-bottom:15px; 
+	letter-spacing: .15em;
 }
 .not p{
 	width: 55%;
 	display: inline-block;
 	vertical-align: top;
+	letter-spacing: .1em;
 }
 .img-not{
 	width: 44%;
@@ -430,4 +432,8 @@ input {
 .img-not figure:hover{
 	
 	
+}
+.not span{
+	color: #837960;
+	text-decoration: underline;
 }
