@@ -1,0 +1,943 @@
+# Webalizer V2.01-10 Incremental Data - 01/26/2009 08:34:17
+2009 1 26 8 34 17
+1668 1225 146 188 0 0 15102449 604 378 0
+5 4 111 1 26
+3 2 6900 2 2 2
+22 13 108445 7 8 7
+40 32 461665 11 14 13
+24 17 216218 5 4 4
+119 94 1282268 15 25 19
+88 62 785322 15 26 17
+49 31 309486 11 23 13
+57 39 489525 14 21 15
+38 20 253377 9 13 13
+35 21 146056 9 17 12
+41 28 156939 5 28 22
+30 19 234805 8 13 11
+102 74 884633 14 40 27
+97 80 808876 12 44 24
+90 77 1021944 10 34 13
+131 115 1818240 9 25 10
+184 118 1543774 13 66 15
+64 47 656546 9 16 15
+108 74 1096482 9 38 15
+67 58 737373 8 12 9
+115 97 1163409 23 32 23
+22 10 121808 8 9 7
+72 57 462823 12 43 28
+21 8 164169 7 12 12
+40 24 136011 7 31 26
+9 8 35355 5 8 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+145 86 879346 59
+51 35 305944 27
+28 10 96006 20
+22 16 174633 10
+39 26 216418 24
+22 16 147079 9
+21 19 210730 11
+19 14 50605 12
+73 55 580306 29
+60 41 598107 24
+228 194 2988402 53
+90 72 965809 13
+97 75 883021 26
+125 106 1316237 28
+63 40 613354 18
+128 107 1562412 33
+32 18 138672 15
+71 45 403341 42
+68 45 468799 27
+70 52 729234 35
+34 18 223095 14
+66 46 590958 21
+34 22 249468 24
+82 67 710473 30
+0
+0
+0
+1225
+0
+0
+0
+0
+0
+13
+0
+16
+0
+0
+194
+0
+0
+0
+0
+0
+0
+219
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/intervenciones/08-11-08/thumbnails/FOTO-2[1].1.jpg
+1 1 0 4086 0 0
+/intervenciones/29-05-08/en/noticias.htm
+0 1 134915408 511 1 1
+/intervenciones/04-11-08/en/noticias.htm
+0 4 0 511 4 3
+/intervenciones/07-11-08/
+0 2 0 3592 0 1
+/docs/Licencia.doc
+0 2 0 72704 0 0
+/intervenciones/28-10-08/thumbnails/foto 1 (4) copy.jpg
+1 1 0 20823 0 0
+/intervenciones/29-05-08/es/noticias.htm
+0 1 0 511 1 1
+/intervenciones/04-11-08/es/noticias.htm
+0 4 0 1022 3 2
+/intervenciones/15-11-08/en/noticias.htm
+0 4 0 511 3 3
+/
+0 99 0 495504 60 25
+/imagenes/gavel.jpg
+1 18 0 53408 0 0
+/intervenciones/15-11-08/es/noticias.htm
+0 5 0 1533 3 2
+/intervenciones/29-10-08/
+0 3 0 6111 3 3
+/intervenciones/28-05-08/
+0 2 0 5090 1 2
+/intervenciones/30-07-08/en/noticias.htm
+0 2 0 1022 2 2
+/intervenciones/30-05-08/
+0 1 0 2827 1 1
+/docs/contrato_de_Licencia.doc
+0 5 0 147456 0 0
+/intervenciones/14-11-08/
+0 5 0 7192 2 2
+/intervenciones/30-07-08/es/noticias.htm
+0 3 0 1022 2 2
+/intervenciones/25-03-08/thumbnails/FOTO-4.jpg
+1 1 0 3044 0 0
+/docs/Doc._de_transferencia.doc
+0 8 0 49152 0 0
+/imagenes/logo.jpg
+1 15 0 66150 0 0
+/imagenes/drschouten.jpg
+1 35 0 570962 0 0
+/imagenes/bullet.jpg
+1 54 0 19366 0 0
+/es/especialidad.htm
+0 9 0 86742 2 3
+/imagenes/sandra.jpg
+1 37 0 531284 0 0
+/intervenciones/30-10-08/en/noticias.htm
+0 4 0 511 4 4
+/intervenciones/05-11-08/en/noticias.htm
+0 4 0 511 3 4
+/imagenes/elizabeth.JPG
+1 32 0 361576 0 0
+/intervenciones/30-10-08/es/noticias.htm
+0 4 0 1533 3 2
+/intervenciones/05-11-08/es/noticias.htm
+0 5 0 1533 4 3
+/intervenciones/16-11-08/en/noticias.htm
+0 3 0 0 3 3
+/intervenciones/04-11-08/
+0 2 0 4080 1 1
+/intervenciones/16-11-08/es/noticias.htm
+0 3 0 511 2 2
+/intervenciones/27-11-08/en/noticias.htm
+0 3 0 511 3 2
+/intervenciones/27-11-08/es/noticias.htm
+0 3 0 511 3 1
+/intervenciones/09-11-08/
+0 4 0 3228 2 2
+/intervenciones/15-11-08/thumbnails/FOTO-2[1].4.jpg
+1 2 0 8878 0 0
+/intervenciones/10-11-08/en/noticias.htm
+0 3 0 511 3 3
+/es/perfil.htm
+0 13 0 118644 4 4
+/intervenciones/10-11-08/es/noticias.htm
+0 4 0 1022 3 3
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].9.jpg
+1 1 0 2893 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].19.jpg
+1 2 796091758 4600 0 0
+/intervenciones/05-11-08/thumbnails/FOTO-2[1].4.jpg
+1 3 0 12243 0 0
+/intervenciones/16-11-08/
+0 2 0 3564 2 2
+/docs/PODERING.doc
+0 8 0 64512 0 0
+/es/staff.htm
+0 41 0 714433 31 2
+/intervenciones/15-11-08/thumbnails/FOTO-2[1].3.jpg
+1 2 0 10014 0 0
+/docs/
+0 29 0 0 20 0
+/intervenciones/06-11-08/en/noticias.htm
+0 4 0 511 3 3
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].18.jpg
+1 1 0 2837 0 0
+/intervenciones/05-11-08/thumbnails/FOTO-2[1].3.jpg
+1 3 0 13899 0 0
+/intervenciones/06-11-08/es/noticias.htm
+0 4 0 1022 1 2
+/imagenes/salaReunion.jpg
+1 9 0 112869 0 0
+/intervenciones/25-03-08/
+0 3 0 11262 1 2
+/imagenes/bogarin.jpg
+1 33 0 320540 0 0
+/imagenes/books.jpg
+1 16 0 51720 0 0
+/intervenciones/28-10-08/thumbnails/foto 1 (5) copy.jpg
+1 1 0 19804 0 0
+/intervenciones/15-11-08/thumbnails/FOTO-2[1].2.jpg
+1 2 0 8912 0 0
+/imagenes/Imagen7.jpg
+1 6 0 263050 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].7.jpg
+1 1 0 2771 0 0
+/intervenciones/05-11-08/thumbnails/FOTO-2[1].2.jpg
+1 3 0 12168 0 0
+/intervenciones/06-11-08/
+0 3 1 5358 1 1
+/imagenes/lebedich.jpg
+1 36 0 876967 0 0
+/intervenciones/15-11-08/thumbnails/FOTO-2[1].1.jpg
+1 2 0 8508 0 0
+/intervenciones/28-10-08/
+0 2 134803256 4104 1 1
+/intervenciones/28-10-08/thumbnails/foto 1 (1).jpg
+1 1 0 20757 0 0
+/intervenciones/30-10-08/
+0 3 0 6138 2 2
+/intervenciones/28-07-08/en/noticias.htm
+0 2 0 1022 1 2
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].6.jpg
+1 2 0 6340 0 0
+/intervenciones/30-10-08/thumbnails/FOTO-2[1].6.jpg
+1 1 1 14747 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].16.jpg
+1 1 0 2792 0 0
+/imagenes/foto-LUCY.jpg
+1 33 1953775974 234729 0 0
+/intervenciones/05-11-08/thumbnails/FOTO-2[1].1.jpg
+1 3 0 16896 0 0
+/intervenciones/28-07-08/es/noticias.htm
+0 2 0 511 2 1
+/intervenciones/30-05-08/es/noticias.htm
+0 1 0 511 1 1
+/intervenciones/07-11-08/en/noticias.htm
+0 3 0 511 3 3
+/intervenciones/07-11-08/es/noticias.htm
+0 3 0 511 1 3
+/imagenes/Imagen5.jpg
+1 37 0 1943023 0 0
+/imagenes/law_books.jpg
+1 14 0 43316 0 0
+/intervenciones/noticias_es.htm
+0 8 0 29118 1 2
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].5.jpg
+1 1 0 3149 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].15.jpg
+1 1 0 3577 0 0
+/docs/Poderale.doc
+0 12 0 131072 0 0
+/intervenciones/29-07-08/
+0 4 0 4080 3 3
+/lib/default.css
+0 63 0 82350 0 0
+/imagenes/Natalia-Del-Puerto.jpg
+1 1 0 12626 0 0
+/intervenciones/28-10-08/en/noticias.htm
+0 3 0 0 2 2
+/imagenes/Imagen4.jpg
+1 10 0 314023 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].4.jpg
+1 1 0 2732 0 0
+/intervenciones/28-10-08/es/noticias.htm
+0 5 0 1533 1 4
+/intervenciones/30-10-08/thumbnails/FOTO-2[1].4.jpg
+1 1 0 13068 0 0
+/imagenes/tamara-maluff.jpg
+1 32 0 332475 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].14.jpg
+1 1 0 3039 0 0
+/intervenciones/03-11-08/
+0 2 0 4094 1 1
+/en/staff.htm
+0 24 0 0 17 9
+/intervenciones/30-10-08/imagenes/FOTO-2[1].6.jpg
+1 1 1 44800 0 0
+/imagenes/contactos.jpg
+1 23 0 1029116 0 0
+/intervenciones/29-07-08/en/noticias.htm
+0 1 0 511 1 1
+/imagenes/practice.jpg
+1 18 0 38775 0 0
+/intervenciones/29-07-08/es/noticias.htm
+0 3 0 1022 2 3
+/imagenes/Imagen3.jpg
+1 5 0 271175 0 0
+/intervenciones/08-11-08/
+0 3 1683976052 5472 2 1
+/en//
+0 1 134907088 6971 1 0
+/intervenciones/10-11-08/
+0 3 0 3560 2 2
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].3.jpg
+1 1 0 2897 0 0
+/intervenciones/30-10-08/thumbnails/FOTO-2[1].3.jpg
+1 1 0 16083 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].13.jpg
+1 1 0 1921 0 0
+/intervenciones/08-11-08/en/noticias.htm
+0 4 0 511 3 3
+/docs/poderSchouten.doc
+0 51 0 1013760 0 0
+/intervenciones/08-11-08/imagenes/FOTO-2[1].4.jpg
+1 1 0 21272 0 0
+/imagenes/maria.jpg
+1 32 796091758 275872 0 0
+/intervenciones/08-11-08/es/noticias.htm
+0 2 0 1022 2 2
+/intervenciones/29-05-08/
+0 3 0 8826 3 3
+/es/formularios.htm
+0 10 0 89802 4 3
+/intervenciones/10-11-08/thumbnails/FOTO-2[1].4.jpg
+1 1 0 2174 0 0
+/docs/poderportugues.doc
+0 10 0 65536 0 0
+/intervenciones/15-11-08/
+0 4 0 7136 2 1
+/en/poderes.htm
+0 5 0 24556 4 5
+/intervenciones/06-11-08/imagenes/FOTO-2[1].4.jpg
+1 1 0 41335 0 0
+/intervenciones/28-10-08/thumbnails/foto 1 (3) copy.jpg
+1 1 0 21155 0 0
+/imagenes/Imagen2.jpg
+1 2 0 115076 0 0
+/intervenciones/05-11-08/imagenes/FOTO-2[1].4.jpg
+1 1 1 25258 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].2.jpg
+1 1 0 2576 0 0
+/intervenciones/30-10-08/thumbnails/FOTO-2[1].2.jpg
+1 1 0 16656 0 0
+/intervenciones/02-11-08/en/noticias.htm
+0 2 0 0 2 2
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].12.jpg
+1 1 0 2652 0 0
+/intervenciones/08-11-08/imagenes/FOTO-2[1].3.jpg
+1 1 0 30269 0 0
+/intervenciones/28-10-08/thumbnails/foto 1 (6) copy.jpg
+1 1 0 21649 0 0
+/intervenciones/02-11-08/es/noticias.htm
+0 4 0 1022 4 4
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].23.jpg
+1 1 0 2463 0 0
+/intervenciones/29-10-08/en/noticias.htm
+0 4 0 511 3 3
+/intervenciones/14-11-08/thumbnails/FOTO-2[1].4.jpg
+1 2 0 43566 0 0
+/intervenciones/29-10-08/es/noticias.htm
+0 4 0 1022 3 3
+/es/poderes.htm
+0 9 0 88590 4 5
+/imagenes/Imagen1.jpg
+1 7 0 225372 0 0
+/intervenciones/05-11-08/imagenes/FOTO-2[1].3.jpg
+1 1 1 27962 0 0
+/intervenciones/30-10-08/thumbnails/FOTO-2[1].1.jpg
+1 1 0 14862 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].11.jpg
+1 2 0 6302 0 0
+/en/
+0 10 0 34855 9 6
+/intervenciones/27-11-08/
+0 4 0 5343 3 2
+/intervenciones/08-11-08/imagenes/FOTO-2[1].2.jpg
+1 1 0 34144 0 0
+/imagenes/foto-Esteban.jpg
+1 59 0 307736 0 0
+/en/especialidad.htm
+0 6 0 36036 5 5
+/intervenciones/06-11-08/thumbnails/FOTO-2[1].4.jpg
+1 1 0 5789 0 0
+/intervenciones/14-11-08/thumbnails/FOTO-2[1].3.jpg
+1 2 0 7234 0 0
+/intervenciones/10-11-08/thumbnails/FOTO-2[1].2.jpg
+1 1 0 2495 0 0
+/intervenciones/09-11-08/en/noticias.htm
+0 2 0 0 1 1
+/intervenciones/05-11-08/
+0 5 0 9275 3 2
+/intervenciones/06-11-08/imagenes/FOTO-2[1].2.jpg
+1 1 0 36890 0 0
+/docs/powerOfAttorneySchouten.doc
+0 5 0 64512 0 0
+/intervenciones/25-03-08/es/noticias.htm
+0 3 0 511 3 2
+/intervenciones/09-11-08/es/noticias.htm
+0 4 0 1022 3 1
+/intervenciones/05-11-08/imagenes/FOTO-2[1].2.jpg
+1 1 1 25423 0 0
+/imagenes/word.gif
+1 7 0 6525 0 0
+/intervenciones/noticias_en.htm
+0 9 0 43209 7 7
+/intervenciones/08-11-08/thumbnails/FOTO-2[1].4.jpg
+1 1 0 3547 0 0
+/en/noticias.htm
+0 15 0 0 10 2
+/intervenciones/08-11-08/imagenes/FOTO-2[1].1.jpg
+1 1 0 25863 0 0
+/intervenciones/25-03-08/thumbnails/FOTO-4[1].21.jpg
+1 1 0 3718 0 0
+/es/
+0 10 0 4416 5 6
+/es/noticias.htm
+0 22 0 764031 12 3
+/imagenes/belen-bilbao.jpg
+1 31 0 288240 0 0
+/intervenciones/06-11-08/thumbnails/FOTO-2[1].3.jpg
+1 1 1 6033 0 0
+/intervenciones/14-11-08/thumbnails/FOTO-2[1].2.jpg
+1 2 0 43444 0 0
+/intervenciones/03-11-08/en/noticias.htm
+0 4 0 1022 3 4
+/intervenciones/06-11-08/imagenes/FOTO-2[1].1.jpg
+1 1 0 23820 0 0
+/intervenciones/28-05-08/es/noticias.htm
+0 1 0 511 1 1
+/intervenciones/14-11-08/en/noticias.htm
+0 2 0 0 1 2
+/en/contacto.php
+0 8 0 57474 6 4
+/intervenciones/05-11-08/imagenes/FOTO-2[1].1.jpg
+1 1 1 36651 0 0
+/intervenciones/08-11-08/thumbnails/FOTO-2[1].3.jpg
+1 1 0 4926 0 0
+/intervenciones/14-11-08/es/noticias.htm
+0 5 0 1533 2 2
+/es/contacto.php
+0 9 0 85040 2 2
+/en/perfil.htm
+0 8 0 76000 5 2
+/intervenciones/30-10-08/imagenes/FOTO-2[1].1.jpg
+1 1 1 45632 0 0
+/en/formularios.htm
+0 5 0 29466 5 5
+/intervenciones/06-11-08/thumbnails/FOTO-2[1].2.jpg
+1 1 1 5802 0 0
+/intervenciones/14-11-08/thumbnails/FOTO-2[1].1.jpg
+1 2 1920229221 8412 0 0
+/intervenciones/28-07-08/
+0 4 0 6120 4 0
+/intervenciones/30-07-08/
+0 4 0 8232 4 4
+/imagenes/justice.gif
+1 19 0 792827 0 0
+/intervenciones/08-11-08/thumbnails/FOTO-2[1].2.jpg
+1 1 0 4861 0 0
+/intervenciones/26-03-08/
+0 2 0 5592 2 2
+/intervenciones/26-03-08/es/noticias.htm
+0 3 0 511 3 3
+/intervenciones/02-11-08/
+0 3 0 3596 2 2
+/intervenciones/06-11-08/thumbnails/FOTO-2[1].1.jpg
+1 1 1 4033 0 0
+/docs/Poderesp.doc
+0 7 0 54272 0 0
+# End Of Table - urls
+# -sites- (monthly)
+78.177.110.156
+0 11 9 75295 1 1232277990
+/
+201.255.175.36
+0 1 1 44943 1 1231009248
+/es/noticias.htm
+200.85.56.234
+0 16 14 200284 1 1231490901
+/es/staff.htm
+170.51.27.93
+0 15 14 200091 1 1231068949
+/es/staff.htm
+213.186.192.244
+0 1 1 6696 1 1230996011
+/
+190.128.237.178
+0 5 4 101270 1 1232725629
+/es/noticias.htm
+186.16.5.153
+0 4 4 101053 1 1230946219
+/es/noticias.htm
+190.128.250.247
+0 1 1 5918 0 0
+-
+201.217.106.175
+0 4 4 30720 1 1231870759
+/
+64.246.165.200
+0 2 1 6900 1 1231336816
+/
+72.30.142.122
+0 2 1 940 1 1231505393
+/es/
+190.128.217.58
+0 1 1 18491 1 1231937502
+/es/staff.htm
+190.200.131.197
+0 4 4 30720 1 1231606505
+/
+200.84.99.176
+0 4 4 30720 1 1231869480
+/
+201.252.228.251
+0 37 32 546463 1 1232119676
+/es/contacto.php
+190.87.77.164
+0 1 1 30720 0 0
+-
+190.141.87.138
+0 4 4 30720 1 1231183318
+/
+187.133.35.162
+0 11 10 81948 1 1232573764
+/intervenciones/05-11-08/
+200.31.144.7
+0 1 1 30720 0 0
+-
+190.36.177.37
+0 4 4 30720 1 1231457598
+/
+201.250.234.119
+0 1 1 32768 0 0
+-
+190.128.254.55
+0 1 1 5918 0 0
+-
+201.211.241.204
+0 1 1 30720 0 0
+-
+200.85.38.86
+0 31 29 406076 2 1231242148
+/es/staff.htm
+186.16.14.83
+0 21 20 252223 1 1231176321
+/es/staff.htm
+189.54.37.238
+0 13 12 173081 1 1231914235
+/
+200.8.252.177
+0 1 1 30720 0 0
+-
+65.55.231.58
+0 2 1 12842 0 0
+-
+200.108.137.244
+0 21 15 230108 1 1231231827
+/es/noticias.htm
+190.52.142.1
+0 110 64 762355 1 1232152563
+/es/staff.htm
+76.175.224.201
+0 4 3 58176 1 1232651033
+/
+8.21.4.254
+0 2 2 16196 1 1232513462
+/en/perfil.htm
+84.54.76.17
+0 6 5 32492 1 1232588953
+/es/staff.htm
+186.16.38.86
+0 9 2 12053 0 0
+-
+200.3.248.102
+0 15 14 200091 1 1232724935
+/es/staff.htm
+65.163.59.49
+0 2 1 0 1 1231389293
+/en/staff.htm
+200.110.154.196
+0 1 1 30720 0 0
+-
+200.114.170.13
+0 5 4 101270 1 1232313832
+/es/noticias.htm
+186.16.1.173
+0 1 1 12541 0 0
+-
+64.1.215.162
+0 40 29 190148 23 1232360869
+/en/perfil.htm
+186.16.52.215
+0 4 3 43105 1 1232543801
+/es/staff.htm
+200.110.81.22
+0 8 2 32043 1 1231876027
+/docs/
+82.95.151.195
+0 3 1 434 1 1231622297
+/en/staff.htm
+200.69.205.109
+0 17 14 304156 1 1232100519
+/
+170.51.19.245
+0 16 14 200308 1 1231170578
+/es/staff.htm
+190.174.214.37
+0 17 15 218799 1 1231853050
+/es/staff.htm
+200.3.249.199
+0 7 7 41426 0 0
+-
+190.176.232.39
+0 18 15 200527 1 1232546354
+/es/staff.htm
+190.199.197.231
+0 1 1 30720 0 0
+-
+186.8.26.191
+0 22 17 265188 1 1231857961
+/es/
+84.227.149.47
+0 2 1 217 1 1231479023
+/en/staff.htm
+128.107.248.220
+0 16 14 200310 1 1231370123
+/es/staff.htm
+199.104.216.47
+0 3 2 6135 1 1231957081
+/en/staff.htm
+74.238.18.36
+0 3 3 30720 1 1232541448
+/docs/
+83.32.187.187
+0 1 1 30720 0 0
+-
+190.55.133.78
+0 6 4 101487 1 1232319294
+/es/noticias.htm
+72.30.87.96
+0 25 16 117743 13 1232958857
+/es/perfil.htm
+170.51.2.131
+0 16 14 200308 1 1232494068
+/es/staff.htm
+63.72.208.223
+0 9 6 111049 1 1231169688
+/en/contacto.php
+201.217.5.82
+0 10 10 162582 1 1232031244
+/es/staff.htm
+84.96.17.10
+0 3 3 21546 1 1232024460
+/
+220.227.148.74
+0 2 2 8621 1 1232697254
+/en/staff.htm
+190.174.163.49
+0 22 19 268476 1 1232129805
+/es/staff.htm
+87.169.46.127
+0 3 1 434 1 1232528406
+/en/noticias.htm
+122.164.219.241
+0 8 8 73336 1 1230892016
+/
+190.42.138.93
+0 4 4 30720 1 1232723828
+/
+67.142.130.46
+0 1 1 12863 0 0
+-
+190.78.224.242
+0 2 2 30720 1 1232550095
+/docs/
+72.30.81.183
+0 2 1 204 1 1230771496
+/en/noticias.htm
+186.16.47.129
+0 1 1 0 1 1230917164
+/en/noticias.htm
+190.128.248.254
+0 53 51 794898 2 1232796056
+/es/noticias.htm
+208.80.194.120
+0 1 1 6696 1 1230885516
+/
+67.202.18.52
+0 1 1 6696 1 1231252129
+/
+72.14.193.1
+0 1 1 0 1 1231552223
+/en/noticias.htm
+201.240.159.151
+0 4 4 30720 1 1231270316
+/
+190.204.175.74
+0 4 4 30720 1 1232214486
+/
+82.89.241.46
+0 12 12 106104 1 1231127586
+/
+66.249.71.211
+0 123 58 334159 67 1232939987
+/es/formularios.htm
+66.249.71.212
+0 115 53 223086 71 1232957409
+/intervenciones/04-11-08/en/noticias.htm
+66.249.71.213
+0 123 56 350118 69 1232946956
+/intervenciones/25-03-08/es/noticias.htm
+190.26.159.240
+0 4 4 30720 1 1232567649
+/
+72.30.142.225
+0 13 7 66876 7 1231379032
+/
+169.252.4.21
+0 33 30 363419 2 1232542917
+/en/staff.htm
+200.85.35.82
+0 1 1 5918 0 0
+-
+190.75.53.250
+0 1 1 30720 0 0
+-
+200.140.43.82
+0 2 1 0 1 1232629830
+/en/noticias.htm
+96.226.10.178
+0 1 0 217 0 0
+-
+151.112.70.60
+0 1 1 0 1 1231794865
+/en/staff.htm
+201.255.222.130
+0 23 21 321170 1 1232100603
+/es/especialidad.htm
+208.80.194.33
+0 1 1 6696 1 1232347116
+/
+208.80.194.34
+0 1 1 6696 1 1230973820
+/
+208.80.194.35
+0 3 3 20088 3 1232538127
+/
+208.80.194.36
+0 3 3 20088 3 1232684831
+/
+208.80.194.37
+0 2 2 13392 2 1231725410
+/
+208.80.194.38
+0 2 2 13392 2 1231897439
+/
+65.46.48.194
+0 1 1 6696 1 1232513379
+/
+208.80.194.40
+0 1 1 6696 1 1231976980
+/
+208.80.194.41
+0 1 1 6696 1 1230779751
+/
+208.80.194.44
+0 1 1 6696 1 1232850642
+/
+208.80.194.45
+0 1 1 6696 1 1232748200
+/
+208.80.194.46
+0 1 1 6696 1 1231637278
+/
+208.80.194.48
+0 2 2 13392 2 1232936747
+/
+200.3.216.73
+0 4 4 30720 1 1232017534
+/
+208.80.194.50
+0 2 2 13392 2 1232686293
+/
+208.80.194.51
+0 1 1 6696 1 1232051169
+/
+208.80.194.56
+0 1 1 6696 1 1232167329
+/
+201.209.127.102
+0 3 3 30720 1 1232227649
+/docs/
+186.16.7.19
+0 5 4 101270 1 1231444471
+/es/noticias.htm
+200.3.249.201
+0 1 1 5918 0 0
+-
+200.3.249.208
+0 1 1 5918 0 0
+-
+201.242.201.78
+0 1 1 30720 0 0
+-
+170.51.11.20
+0 4 4 32768 1 1232847423
+/
+206.221.33.25
+0 1 0 0 0 0
+-
+94.70.51.139
+0 10 9 121478 1 1231738672
+/
+200.3.249.220
+0 24 18 292419 1 1232315715
+/es/especialidad.htm
+200.3.249.233
+0 1 1 5918 0 0
+-
+200.88.7.76
+0 2 2 30720 1 1231022522
+/docs/
+190.139.169.167
+0 6 5 20474 1 1231894701
+/intervenciones/05-11-08/
+75.144.133.14
+0 21 17 235782 1 1231250254
+/en/especialidad.htm
+190.42.105.183
+0 3 3 30720 1 1231977791
+/docs/
+190.67.215.68
+0 16 14 200308 1 1231890570
+/es/staff.htm
+200.1.201.196
+0 24 23 335775 1 1232101221
+/
+190.52.128.136
+0 45 39 464036 1 1231935388
+/intervenciones/14-11-08/
+200.1.200.169
+0 17 14 200505 1 1232537327
+/es/staff.htm
+189.26.162.147
+0 3 1 217 1 1231869482
+/en/noticias.htm
+190.12.78.114
+0 9 7 82996 1 1232453240
+/es/staff.htm
+190.201.120.103
+0 1 1 30720 0 0
+-
+85.53.237.124
+0 8 4 31428 1 1232179925
+/docs/
+216.145.17.190
+0 2 1 6900 1 1231942107
+/
+201.160.186.132
+0 4 4 30720 1 1231623746
+/
+85.18.201.172
+0 1 1 30720 0 0
+-
+201.217.4.62
+0 17 16 246730 1 1231164021
+/es/perfil.htm
+186.16.53.159
+0 84 64 1035127 1 1232362695
+/es/staff.htm
+190.128.178.188
+0 15 14 200091 1 1232455195
+/es/staff.htm
+201.242.200.186
+0 4 4 30720 1 1231179905
+/
+67.195.37.157
+0 3 2 8425 1 1231809466
+/
+122.164.232.34
+0 14 13 121765 1 1232513469
+/en/staff.htm
+190.55.127.219
+0 3 2 31310 1 1231788709
+/es/staff.htm
+201.92.175.220
+0 10 9 73336 1 1231552389
+/
+201.252.61.34
+0 8 2 32115 1 1232011778
+/docs/
+212.120.244.205
+0 3 2 6135 1 1232707717
+/en/staff.htm
+201.230.150.161
+0 18 17 274270 1 1231444052
+/es/contacto.php
+85.92.68.124
+0 9 9 55404 3 1232755385
+/es/
+190.128.227.26
+0 15 14 200079 1 1231012903
+/es/staff.htm
+64.246.161.190
+0 2 1 6900 1 1232556138
+/
+200.108.134.170
+0 38 32 586504 1 1232187713
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+72.30.87.96
+0 3 2 11517 1 1232958857
+/es/perfil.htm
+66.249.71.211
+0 1 1 9978 1 1232939987
+/es/formularios.htm
+66.249.71.212
+0 3 3 6653 3 1232957409
+/intervenciones/04-11-08/en/noticias.htm
+66.249.71.213
+0 1 1 511 1 1232946956
+/intervenciones/25-03-08/es/noticias.htm
+208.80.194.48
+0 1 1 6696 1 1232936747
+/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

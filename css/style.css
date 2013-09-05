@@ -1,0 +1,433 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;font: "Adobe Caslon Pro", "Adobe Caslon Pro Bold", "Times New Roman", Times, serif; }
+body {
+	background:#FAF0E6;
+	margin:0;
+	padding:0;
+}
+#bg {
+	background: #FAF0E6;
+	height: 1400px;
+	width: auto;
+}
+
+#base { background-color:#FFF;
+	background-repeat: no-repeat;
+	height: 1400px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	box-shadow: 0px 0px 15px rgba(39, 21, 90, 0.4);
+}
+
+#portada{width: 980px;
+	height: 300px;
+	background: url(../img/portada_index.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: none;
+}
+	
+/*	
+#portada:hover{width: 780px;
+	height: 300px;
+	background: url(../img/hoverportada-18.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: none;
+}
+
+#logo{width: 350px;
+	height: 130px;
+	background: url(../img/logo_blanco.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: none;
+	padding-top:150px;
+	padding-left:100px;
+}
+*/
+
+#bg  ul.sdt_menu li{
+	top: 300px;
+	float: left;
+	font-size: 18px;
+	font-style: oblique;
+	list-style: url(../img/lista_estilo2.png);
+	list-style-position: inside;
+	width: auto; 
+	height: 76px;
+}
+
+#bg ul.menu{
+	width: auto;
+	height: 76px;
+	padding:30px 0px 0px 30px; /* padding */
+ }
+
+#bg ul.menu li{
+	color: #C03;
+	text-align:center; /* menu links alineacion derecha */
+}
+
+#bg ul.menu li a{
+	font:17px "Adobe Caslon Pro Bold";
+	font-style: oblique;
+	padding: 20px; /* distancia entre links */
+	color: #333;
+	margin-bottom:10px;
+}
+
+#bg ul.menu li a:hover {
+	list-style-image:url(../img/listajover-11.png);
+	color:#887A5F;
+	font-size:25px
+}
+
+#bg ul.sdt_menu{
+	margin-top:300px;
+}
+
+#bg ul.sdt_menu{
+	margin-top:20px;
+	padding:0;
+	list-style: none;
+	font-family:  "Adobe Caslon Pro Bold", "Adobe Caslon Pro", "Times New Roman";
+	font-size:12px;
+	width:980px; /* tamaño total del menú */
+}
+
+#bg ul.sdt_menu a{
+	text-decoration:none;
+	outline:none;
+}
+
+#bg ul.sdt_menu li{
+	float:left;
+	width:140px;
+	height:60px;
+	position:relative;
+	cursor:pointer;
+}
+
+#bg ul.sdt_menu li > a{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:140px;
+	height:60px;
+	z-index:12;
+	background:transparent url(../img/overlay.png) no-repeat bottom right;
+}
+
+#bg ul.sdt_menu li a img{
+	border:none;
+	position:absolute;
+	width:0px;
+	height:0px;
+	bottom:0px;
+	left:85px;
+	z-index:100;
+}
+
+#bg ul.sdt_menu li span.sdt_wrap{
+	position:absolute;
+	top:25px;
+	left:0px;
+	width:140px;
+	height:60px;
+	z-index:15;
+}
+
+#bg ul.sdt_menu li span.sdt_active{
+	position:absolute;
+	background:&H8000000F&; /*Fondo Transparente*/
+	top:5px;
+	width:140px;
+	height:0px;
+	left:0px;
+	z-index:14;
+	background-size:100px;
+}
+
+#bg ul.sdt_menu li span span.sdt_link,
+#bg ul.sdt_menu li span span.sdt_descr,
+#bg ul.sdt_menu li div.sdt_box a{
+	margin-left:15px;
+	background-size:100px;
+}
+
+#bg ul.sdt_menu li span span.sdt_link{
+	color: #918975 ;
+	font-size:18px;
+	float:left;
+	clear:both;
+}
+
+#bg ul.sdt_menu li span span.sdt_descr{
+	color:#837960;
+	float:left;
+	clear:both;
+	width:140px; /*For dumbass IE7*/
+	font-size:12px;
+}
+
+#bg ul.sdt_menu li div.sdt_box a{
+	float:left;
+	clear:both;
+	line-height:35px;
+	color:#000;
+}
+
+#bg ul.sdt_menu li div.sdt_box a:first-child{
+	margin-top:15px;
+}
+
+#bg ul.sdt_menu li div.sdt_box a:hover{
+	color:#fff;
+}
+
+#box_txt {
+	background-repeat: no-repeat;
+	float:left;
+	height:530px;
+	width:446px;
+	margin-top:80px;
+	margin-left:80px;
+}
+
+#en_text {
+	background-repeat: no-repeat;
+	float:left;
+	height:530px;
+	width:426px;
+	margin-top:80px;
+	margin-left:80px;
+}
+
+#bg #base #box_txt p {
+	font-family: "Adobe Caslon Pro";
+	font-size: 14px;
+	text-align: left;
+	color: #333;
+	float: left;	
+	padding-top: 35px ;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 23px;
+	text-align: justify;
+	line-height:0,1px;
+}
+
+#en_text {
+	font-family: "Adobe Caslon Pro";
+	font-size: 14px;
+	text-align: left;
+	color: #333;
+	float: left;
+	padding-top: 35px ;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 23px;
+	text-align: justify;
+	line-height:0,1px;
+}
+
+p{
+	line-height: 1.7; font-size: 1em;
+}
+
+#wowslider-container1 {
+	width: 830px;
+	height: 360px;
+}
+
+#especializacion {
+	height:503px;
+	width:800px;
+	background: url(../img/especializaciones.jpg);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:115px;
+	margin-left:90px;
+	float:left;
+}
+
+#especializacion_en {
+	height:503px;
+	width:800px;
+	background: url(../img/especializaciones_en.jpg);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:115px;
+	margin-left:90px;
+	float:left;
+}
+
+#picture {
+	height:463px;
+	width:295px;
+	background: url(../img/frente.jpg); /* imagen de perfil */
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:115px;
+	margin-left:580px;
+	float:left;
+}
+
+#poderes_pict {
+	height:503px;
+	width:335px;
+	background: url(../img/poderes.jpg);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:115px;
+	margin-left:150px;
+	float:left;
+}
+
+#poderes{
+	font-family: "Adobe Caslon Pro Bold", "Adobe Caslon Pro";
+	font-size: 16px;
+	text-align: left;
+	color: #837960;
+	height:503px;
+	width:980px;
+	position: absolute;
+	margin-top:115px;
+	margin-left:550px;
+}
+
+#formularios_pict {
+	height:503px;
+	width:319px;
+	background: url(../img/formularios.jpg);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:115px;
+	margin-left:150px;
+	float:left;
+}
+
+#formularios{
+	font-family: "Adobe Caslon Pro Bold", "Adobe Caslon Pro";
+	font-size: 16px;
+	text-align: left;
+	color: #837960;
+	height:503px;
+	width:780px;
+	position: absolute;
+	margin-top:115px;
+	margin-left:550px;
+}
+
+#clientes_es_box{
+	height:359px;
+	width:979px;
+	background:url(../img/logos_finales_es.png);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:610px;
+	margin-left:0px;
+	float:left;
+}
+
+#clientes_en_box{
+	height:359px;
+	width:979px;
+	background:url(../img/logos_finales_en.png);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:610px;
+	margin-left:0px;
+	float:left;
+}
+
+#foot {
+	height:145px;
+	width:922px;
+	background: url(../img/foot.jpg);
+	background-repeat:no-repeat;
+	position: absolute;
+	margin-top:957px;
+	margin-left:0px;
+	float:right;
+}
+
+#contactenos {
+	font-family: "Adobe Caslon Pro Bold";
+	color: #837960;
+	position: absolute;
+	margin-top: 130px;
+	margin-left: 0px;
+}
+
+textarea {
+	background: #FAF0E6;
+	border: 1px solid #837960;
+}
+
+input {
+	background: #FAF0E6;
+	border: 1px solid #837960;
+}
+
+#bt_contactos{
+	font-size: 14px;
+	font-family: "Adobe Caslon Pro Bold";
+	color: #837960;
+	background: #FAF0E6;
+	border: 1px solid #837960;
+	margin-right: 10px;
+	width: 100px;
+	height: 25px;
+}
+#box-not{
+	font-family: "Adobe Caslon Pro Bold";
+	background-repeat: no-repeat;
+	float:left;
+	height:490px;
+	width:100%;
+	margin-top:120px;
+	padding: 0 60px;
+	overflow-y: scroll;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	
+}
+.not h2{
+	color: #837960;
+	border-bottom: 1px solid #837960;
+	margin-bottom:15px; 
+}
+.not p{
+	width: 55%;
+	display: inline-block;
+	vertical-align: top;
+}
+.img-not{
+	width: 44%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: right;
+}
+.img-not figure{
+	width: 80px;
+	height:80px;
+	display: inline-block;
+	margin: 0 4px 8px 4px;
+
+}
+.img-not img{
+	width: 100%;
+	height:100%;
+}
+
+.img-not figure:hover{
+	
+	
+}

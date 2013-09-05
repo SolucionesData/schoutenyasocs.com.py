@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	color : #fff;
+	margin: 0 auto;
+	width: 1024px; 
+	background:#FAF0E6;
+}
+
+
+#contenido{
+	background-image: url(../img/portada.jpg);
+	width: 926px;
+	height: 631px;
+	margin: 20px auto;
+	background-repeat:no-repeat;
+	position: relative;
+
+}
+#ingles a{
+	width: 133px;
+	height: 45px;
+	position: absolute;
+	top: 258px;
+	margin-left: 580px;
+	background: url(../img/pestanita_english.png) no-repeat 0 0;
+	background-position: 0px -7px;
+	-webkit-transition: all 0.1s ease-in-out 0.4s;
+	-moz-transition: all 0.1s ease-in-out 0.4s;
+	-o-transition: all 0.1s ease-in-out 0.4s;
+	transition: all 0.1s ease-in-out 0.4s;
+}
+#ingles a:hover{
+	background-position: 0px 0px;
+}
+
+#espanol a{
+	width: 133px;
+	height: 45px;
+	position: absolute;
+	top: 258px;
+	margin-left: 747px;
+	background: url(../img/pestanita_espanol.png) no-repeat 0 0;
+	background-position: 0px -7px;
+	-webkit-transition: all 0.1s ease-in-out 0.3s;
+	-moz-transition: all 0.1s ease-in-out 0.3s;
+	-o-transition: all 0.1s ease-in-out 0.3s;
+	transition: all 0.1s ease-in-out 0.3s;
+}
+#espanol a:hover{
+	background-position: 0px 0px;
+}
